@@ -35,6 +35,7 @@ while True:
 ## SERVER:
 
 <img width="937" height="238" alt="image" src="https://github.com/user-attachments/assets/68a14004-bd46-4d87-99be-1f2c663bee64" />
+
 ## CLIENT:
 <img width="942" height="235" alt="image" src="https://github.com/user-attachments/assets/33e72fcc-e2e5-4c9e-86fa-349823fff916" />
 
